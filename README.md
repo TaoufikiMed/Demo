@@ -13,3 +13,5 @@ NFT maker
 stash test
 
 do it
+
+i'm not a wordpress dev
