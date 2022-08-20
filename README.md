@@ -2,5 +2,4 @@
 
 lorem ipsum 1
 
-salam mes chere developer .
-blan
+use tortoisegit to clone this repo
