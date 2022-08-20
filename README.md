@@ -1,6 +1,6 @@
 # title1
 
-lorem ipsum 1
+lorem ipsum
 
 use tortoisegit to clone this repo
 
