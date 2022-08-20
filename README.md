@@ -10,4 +10,8 @@ some line for new_branch
 
 NFT maker
 
+<<<<<<< HEAD
 stash test
+=======
+line for develop branch
+>>>>>>> develop
